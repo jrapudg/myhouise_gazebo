@@ -6,7 +6,7 @@ namespace gazebo
   {
     public: WorldPluginMyRobot() : WorldPlugin()
             {
-              printf("Hello, You are very wellcome to my house!\n");
+              printf("Hello, You are very welcome to my house!\n");
 	      printf("Guadalajara, Mexico is awesome!\n");
 	      printf("Feel like at home!\n");
             }
